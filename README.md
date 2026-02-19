@@ -14,3 +14,6 @@ Currently in development
 
 ## Setup Instructions
 Comming soon!
+
+## Author
+Your Name - 90 Day Java Challenge
